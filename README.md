@@ -18,11 +18,11 @@ To run the site locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/LucasSimoesSilva/Vigilantes-Digitais.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd Vigilantes-Digitais
     ```
 3. Open the `index.html` file in your preferred browser.
 
@@ -64,11 +64,11 @@ Para rodar o site localmente, siga os seguintes passos:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/LucasSimoesSilva/Vigilantes-Digitais.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd seu-repositorio
+    cd Vigilantes-Digitais
     ```
 3. Abra o arquivo `index.html` em seu navegador preferido.
 
